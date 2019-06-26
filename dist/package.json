@@ -1,0 +1,8 @@
+{
+  "name": "trashrepodist",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "once": "^1.4.0",
+  },
+}
